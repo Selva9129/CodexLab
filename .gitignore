@@ -6,3 +6,5 @@ node_modules/
 .cursor/
 .kiro/
 .agents/
+.env.omni
+.omni/collector.json
