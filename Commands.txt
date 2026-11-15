@@ -1,0 +1,32 @@
+   5 python -m pip list                                                                                                              
+   6 python -m pip show torch                                                                                                        
+   7 python -m pip --version                                                                                                         
+   8 python -m pip install requests                                                                                                  
+   9 python.exe -m pip install --upgrade pip                                                                                         
+  10 python -m pip install requests                                                                                                  
+  11 python -m pip install boto3                                                                                                     
+  12 mkdir devopsautomation                                                                                                          
+  13 cd .\devopsautomation\                                                                                                          
+  14 python -m venv venv                                                                                                             
+  15 ls                                                                                                                              
+  16 cd .\venv\                                                                                                                      
+  17 ls                                                                                                                              
+  18 cd .\Scripts\                                                                                                                   
+  19 ls                                                                                                                              
+  20 .\Activate.ps1                                                                                                                  
+  21 cd ..                                                                                                                           
+  22 cd ..                                                                                                                           
+  23 python -m pip install requests                                                                                                  
+  24 python -m pip freeze > requirement.txt                                                                                          
+  25 ls                                                                                                                              
+  26 code .\requirement.txt                                                                                                          
+  27 python -m pip install boto3                                                                                                     
+  28 python -m pip freeze > requirement_v1.txt                                                                                       
+  29 code .\requirement_v1.txt                                                                                                       
+  30 deactivate                                                                                                                      
+  31 python -m venv project_x                                                                                                        
+  32 cd .\project_x\                                                                                                                 
+  33 ls                                                                                                                              
+  34  .\Scripts\Activate.ps1                                                                                                         
+  35 python -m pip freeze > requirement.txt                                                                                          
+  36 code .\requirement.txt     
