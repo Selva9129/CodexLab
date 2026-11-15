@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # CodexLab: Task Tracker Lab
 
 A hands-on repository for OpenAI partners learning how to use Codex App for macOS or Codex Cloud on a realistic but compact backend project.
@@ -385,3 +386,7 @@ If you want a simple path through the lab, try this sequence:
 - Treat Codex like an engineering teammate: delegate the work, then review the output carefully.
 - The canonical starting point for the lab is `github.com/pavlinhristov/CodexLab`.
 - Use the API docs at `http://127.0.0.1:8000/docs` if you prefer testing from a browser instead of `curl`.
+=======
+# sample_repo_group
+Sample Repository Creation
+>>>>>>> 13c5ac5146b72419cd7a238bf88500daeaebd04d

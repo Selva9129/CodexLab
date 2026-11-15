@@ -1,6 +1,19 @@
+<<<<<<< HEAD
 .DS_Store
 __pycache__/
 *.pyc
 .pytest_cache/
 .venv/
 .env
+=======
+node_modules/
+.env
+.omni/
+.claude/
+.github/
+.cursor/
+.kiro/
+.agents/
+.env.omni
+.omni/collector.json
+>>>>>>> 13c5ac5146b72419cd7a238bf88500daeaebd04d
